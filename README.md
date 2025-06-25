@@ -98,8 +98,7 @@ jupyter notebook Sentiment_Analysis_of_Restaurant_Reviews.ipynb
 ## 👩‍💻 Author
 
 **Bhagyashree Savata Mohalkar**  
-🎓 Electronics & Computer Engineering  
-🏫 Sanjivani College of Engineering, Kopargaon  
+🎓 Electronics & Computer Engineer 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/bhagyashree-mohalkar-1b6861287/) | 🐙 [GitHub](https://github.com/BhagyashreeMohalkar)
 
